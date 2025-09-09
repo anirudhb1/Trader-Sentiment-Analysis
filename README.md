@@ -24,6 +24,7 @@ Trade Side Distribution (Buy vs. Sell) across sentiments.
 Profitability comparison of Buy vs. Sell trades in Fear vs. Greed.
 
 -Visualizations
+
 Bar charts and stacked bar plots for PnL, volume, and trade distribution.
 All plots are saved as .png files.
 
@@ -33,6 +34,7 @@ Merged dataset exported as merged_trader_sentiment_data.csv.
 Insights visualized and saved locally
 
 -Sample Insights
+
 Traders may achieve higher profitability during Greed phases, reflecting stronger risk-taking behavior.
 Trading volume often spikes during Fear, suggesting higher uncertainty-driven activity.
 Buy vs. Sell performance highlights which strategy works best under different sentiment conditions.
