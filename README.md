@@ -42,6 +42,9 @@ Buy vs. Sell performance highlights which strategy works best under different se
 -Visualizations
 
 pnl_by_sentiment.png
+
 volume_by_sentiment.png
+
 side_by_sentiment.png
+
 pnl_by_side_sentiment.png
